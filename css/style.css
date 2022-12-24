@@ -250,7 +250,7 @@
 
 .card {
   position: absolute;
-  left: 200px;
+  left: 250px;
   top: 2150px;
   width: 900px;
   height: 250px;
@@ -495,7 +495,7 @@
 
 .links {
   margin-top: 50px;
-  margin-left: -50px;
+  margin-left: -65px;
 }
 
 .attribution {
